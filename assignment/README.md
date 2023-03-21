@@ -1,3 +1,27 @@
+## Interview Assignment
+
+
+## Description
+Table  display user with 10 user at time, it can interact with Api and pagingnation. This assignment use reactJS,TypeScript to implement.
+
+## Prerequisites
+List software, tools, or dependencies that need to be installed before running this assignment. 
+Node.js
+
+## Installation
+Clone the repository
+
+git clone https://github.com/huan2903/interview-assignment.git
+cd assignment
+Install project dependencies
+
+For Node.js projects:
+npm install
+
+License
+This assignment is licensed by TWENDEE.
+
+****************************************************************
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -44,3 +68,6 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+
+
