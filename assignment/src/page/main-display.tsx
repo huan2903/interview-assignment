@@ -98,6 +98,7 @@ const TableCustom = () => {
         onChange={(page, pageSize) => {
           handleChangeTable(page, pageSize);
         }}
+        showSizeChanger={false}
       />
     </div>
   );
